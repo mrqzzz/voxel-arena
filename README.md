@@ -4,7 +4,7 @@ This repository hosts the compiled, downloadable binaries for **Voxel Arena**.
 
 ## A free-for-all, customizable, voxel-based sandbox arena where nearly everything is destructible.
 
-- Single player mode : hordes of entities spawn to give you a hard time
+- Single player mode : hordes of entities spawn to give you a hard time and some casual fun
 - Multiplayer modes : Death-Match, Team-Death-Match, Capture-The-Flag, Base-Destroyer (this one is a new idea!)
 - Environmental and scenographic elements are tweak-able
 - Players can create voxel-panels to create stairs, walls, bridges
