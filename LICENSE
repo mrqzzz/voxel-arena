@@ -1,23 +1,62 @@
-END USER LICENSE AGREEMENT (EULA)
+END USER LICENSE AGREEMENT (EULA) & PRIVACY POLICY
 
-By downloading, accessing, or using this game, you agree to be bound by the terms of this Agreement.
+IMPORTANT - PLEASE READ BEFORE PLAYING
+This game is provided free of charge and "AS IS", without any warranty of any kind. The Developer accepts no responsibility or liability for any damage, loss, or issue arising from downloading, installing, or using the game. The game contains no malware, spyware, or viruses, and does not collect data that directly identifies you (such as your name or email). It does store a local pseudonymous identifier (UID) for anonymous statistics, as described in the Privacy section. By downloading, installing, or playing the game you acknowledge that you have read, understood, and accepted the terms below.
 
 1. LICENSE GRANT
-The Developer grants you a personal, non-exclusive, non-transferable, and limited license to install and play the game for personal, non-commercial use. You may not decompile, reverse engineer, extract assets, or distribute modified versions of the game.
+The Developer grants you a personal, non-exclusive, non-transferable, and limited license to install and play this game for personal, non-commercial use.
+This game is distributed free of charge and contains no in-app purchases, paid content, or advertising. You may not sell, rent, or redistribute the game for commercial gain.
+Single-player mode is fully functional offline. The multiplayer mode is optional and requires an internet connection to the Developer's servers.
 
 2. MULTIPLAYER AND CONDUCT
-The game includes a multiplayer mode connecting to the Developer's servers. 
-You agree not to:
+The game includes a multiplayer mode connecting to the Developer's servers. You agree not to:
 - Use cheats, exploits, automation software, or unauthorized third-party tools.
 - Harass, threaten, or cause distress to other players.
 - Attempt to disrupt, overload, or attack the server infrastructure.
 The Developer reserves the right to terminate your access to the multiplayer servers at any time, for any reason, without notice.
 
-3. PRIVACY
-The game does not collect personal profiling data. However, connecting to the multiplayer servers requires transmitting your IP address. This data is used strictly for establishing the connection and maintaining server security.
+3. PRIVACY (GDPR)
+This game does not use cookies or advertising IDs and does not collect data that directly identifies you (such as your name, email address, or account details).
+Single-player mode is fully playable offline. A network connection is only required for the multiplayer mode and for an anonymous startup usage ping (see below).
+Connecting to the multiplayer servers requires transmitting your IP address. This data is processed strictly for the legitimate interest of establishing the network connection, syncing game state, and maintaining server security. IP addresses are not used for advertising and are only kept in temporary security/usage logs.
+For statistical purposes, in order to estimate the number of users, data about connections is temporarily logged on the server.
+The game generates a random identifier (UID) stored locally on your device the first time you launch it. This UID is not derived from your name, email, hardware, or any account, and is a pseudonymous identifier not linked to your real-world identity. It is transmitted to the server and used only for the legitimate interest of producing aggregate usage and player-retention statistics. You have the right to access or request erasure of data associated with your UID by contacting the Developer (see section 7).
 
-4. DISCLAIMER OF WARRANTIES
-THE GAME IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+4. DISCLAIMER OF WARRANTIES & LIMITATION OF LIABILITY
+THE GAME IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE GAME.
+The multiplayer servers are provided on a best-effort basis and may be modified, suspended, or discontinued at any time without notice. Single-player mode remains playable offline regardless of the availability of the multiplayer servers.
 
-5. LIMITATION OF LIABILITY
-IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE GAME OR THE USE OR OTHER DEALINGS IN THE GAME.
+5. CHANGES TO THIS AGREEMENT
+The Developer may update this Agreement from time to time. Continued use of the game after any changes constitutes acceptance of the revised terms.
+
+6. GOVERNING LAW AND JURISDICTION
+This Agreement is governed by and construed in accordance with the laws of Italy, without regard to its conflict of law provisions. Any dispute arising out of or in connection with this Agreement or the game shall be subject to the exclusive jurisdiction of the competent courts of Italy.
+
+7. DEVELOPER IDENTITY AND CONTACT
+Developer: Marcus Oblak
+Contact (including privacy and GDPR requests): marcus.oblak@gmail.com
+
+8. AI-ASSISTED DEVELOPMENT
+Parts of this game, including code, assets, and/or text, were created with the assistance of artificial intelligence (AI) tools.
+
+9. SERVICE AND DISTRIBUTION AVAILABILITY
+The Developer reserves the right, at its sole discretion, at any time, without notice and without any liability, to terminate, suspend, or discontinue any part of the service, including both the distribution of the game and the operation of the online multiplayer servers.
+
+---
+
+THIRD-PARTY CREDITS & LICENSES
+
+This game is made possible thanks to the following open-source software and assets:
+
+Three.js & Examples (EffectComposer, RenderPass, ShaderPass, CopyShader, LuminosityHighPassShader, UnrealBloomPass, SSAOShader, SSAOPass, SimplexNoise)
+Copyright © 2010-2023 three.js authors
+License: MIT (https://opensource.org/licenses/MIT)
+
+simplex-noise.js
+Copyright © 2022 Jonas Wagner, 2022 Alea F.
+License: MIT (https://opensource.org/licenses/MIT)
+
+3D Textures
+Materials and textures provided by 3DTextures.me (https://3dtextures.me)
+License: CC0 1.0 Universal (Public Domain Dedication)
+
