@@ -5,9 +5,9 @@ This repository hosts the compiled, downloadable binaries for **Voxel Arena**.
 ## Downloads
 
 Check the [Releases](../../releases) page to download the latest available version for your operating system:
-- Windows (.exe) - X64 & ARM64
-- macOS (.dmg) - X64 & ARM64
-- Linux (.AppImage) - X64 & ARM64
+- Windows (.exe) - X64
+- macOS (.dmg) - ARM64
+- Linux (.AppImage) - X64
 
 ## Security & SmartScreen / Gatekeeper
 
@@ -15,7 +15,12 @@ As an independent developer, these binaries are not signed with expensive commer
 When launching the game for the first time, your operating system (Windows SmartScreen or macOS Gatekeeper) might display a security warning.
 
 - **Windows:** Click "More info" -> "Run anyway".
-- **macOS:** Right-click (or Control-click) the application, select "Open", and confirm.
+- **macOS:** I don't own a Apple developer signature, so running the app directly from the DMG may not work.
+- You may drag it to the Applications directory, then open a console and run this command:
+```
+xattr -dr com.apple.quarantine /Applications/Voxel-Arena.app
+```
+- **Linux** should work on the fly
 
 ## Multiplayer & Privacy
 
@@ -33,4 +38,4 @@ This game is free, without ads, and without data collection. If you want to supp
 This software is provided "AS IS", without warranty of any kind. 
 By downloading and playing the game, you agree to the terms specified in the [LICENSE](LICENSE) file included in this repository.
 
-Assets credit: Textures provided by [3dtextures.me](https://3dtextures.me/) (CC0 1.0).
+
