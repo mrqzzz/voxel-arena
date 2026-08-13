@@ -57,8 +57,8 @@ As an independent developer, these binaries are not signed with expensive commer
 When launching the game for the first time, your operating system (Windows SmartScreen or macOS Gatekeeper) might display a security warning.
 
 - **Windows:** Click "More info" -> "Run anyway".
-- **macOS:** I don't own a Apple developer signature, so running the app directly from the DMG may not work.
-- You may drag it to the Applications directory, then open a console and run this command:
+- **macOS:** I don't own a Apple developer signature, so running the app directly from the .dmg may not work.
+-- You may drag it into the Applications directory, then open a console and run this command:
 ```
     xattr -dr com.apple.quarantine /Applications/Voxel-Arena.app
 ```
