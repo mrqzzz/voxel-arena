@@ -2,6 +2,48 @@
 
 This repository hosts the compiled, downloadable binaries for **Voxel Arena**. 
 
+## A free-for-all, customizable, voxel-based sandbox arena where nearly everything is destructible.
+
+- Single player mode : hordes of entities spawn to give you a hard time
+- Multiplayer modes : Death-Match, Team-Death-Match, Capture-The-Flag, Base-Destroyer (this one is a new idea!)
+- Environmental and scenographic elements are tweak-able
+- Players can create voxel-panels to create stairs, walls, bridges
+- Keep "Q" pressed for team-walkie-talkie
+
+
+[Downloads are here >>> ](../../releases)
+
+
+<img width="1005" height="1509" alt="Shot1" src="https://github.com/user-attachments/assets/ba700930-4ff8-44d6-a6bf-1755ee5ae26b" />
+
+
+<img width="1005" height="692" alt="image" src="https://github.com/user-attachments/assets/081370e3-acc3-4d90-b8c9-8c50f05612bf" />
+
+
+<img width="1004" height="271" alt="image" src="https://github.com/user-attachments/assets/4d21dc02-2768-4408-b950-99d5bafe7271" />
+
+
+<img width="932" height="527" alt="image" src="https://github.com/user-attachments/assets/2b491e56-153e-4aa2-b339-586410e84e98" />
+
+
+<img width="1414" height="1131" alt="image" src="https://github.com/user-attachments/assets/3b920e53-8641-4195-a988-8fff6bcfb4cd" />
+
+
+<img width="1564" height="929" alt="image" src="https://github.com/user-attachments/assets/658e8b52-c036-4a01-81f4-49e470fb0382" />
+
+
+<img width="1564" height="929" alt="image" src="https://github.com/user-attachments/assets/ff680cf8-3cba-4575-9062-c31046f4cedb" />
+
+
+<img width="1564" height="929" alt="image" src="https://github.com/user-attachments/assets/fa25b0c7-b6a9-4ad3-a2f4-ce4a6b0eb2cb" />
+
+
+<img width="1564" height="929" alt="image" src="https://github.com/user-attachments/assets/05165bcc-2b63-40ef-b4b0-7489c89867aa" />
+
+
+
+
+
 ## Downloads
 
 Check the [Releases](../../releases) page to download the latest available version for your operating system:
@@ -18,7 +60,7 @@ When launching the game for the first time, your operating system (Windows Smart
 - **macOS:** I don't own a Apple developer signature, so running the app directly from the DMG may not work.
 - You may drag it to the Applications directory, then open a console and run this command:
 ```
-xattr -dr com.apple.quarantine /Applications/Voxel-Arena.app
+    xattr -dr com.apple.quarantine /Applications/Voxel-Arena.app
 ```
 - **Linux** should work on the fly
 
