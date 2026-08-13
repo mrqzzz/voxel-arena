@@ -64,9 +64,6 @@ When launching the game for the first time, your operating system (Windows Smart
 ```
 - **Linux** should work on the fly
 
-## Multiplayer & Privacy
-
-The game features a multiplayer mode. To allow this functionality, your IP address is temporarily transmitted to the game server to establish the connection. No personal data, tracking identifiers, or analytics are collected or stored.
 
 ## Support the Developer
 
@@ -78,6 +75,6 @@ This game is free, without ads, and without data collection. If you want to supp
 ## License
 
 This software is provided "AS IS", without warranty of any kind. 
-By downloading and playing the game, you agree to the terms specified in the [LICENSE](LICENSE) file included in this repository.
+By downloading and playing the game, you agree to the terms specified in the [LICENSE](LICENSE) file included in the binary.
 
 
