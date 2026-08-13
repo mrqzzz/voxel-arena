@@ -11,7 +11,7 @@ This repository hosts the compiled, downloadable binaries for **Voxel Arena**.
 - Keep "Q" pressed for team-walkie-talkie
 
 
-[Downloads are here >>> ](../../releases)
+[Take me to the downloads!!! ](../../releases)
 
 
 <img width="1005" height="1509" alt="Shot1" src="https://github.com/user-attachments/assets/ba700930-4ff8-44d6-a6bf-1755ee5ae26b" />
