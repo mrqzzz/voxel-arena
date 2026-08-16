@@ -46,17 +46,24 @@ The Developer reserves the right, at its sole discretion, at any time, without n
 
 THIRD-PARTY CREDITS & LICENSES
 
-This game is made possible thanks to the following open-source software and assets:
+This game is made possible thanks to the following open-source software and assets.
+The full text of each license can be read at the links below (a copy is also included with the application).
 
-Three.js & Examples (EffectComposer, RenderPass, ShaderPass, CopyShader, LuminosityHighPassShader, UnrealBloomPass, SSAOShader, SSAOPass, SimplexNoise)
-Copyright © 2010-2023 three.js authors
-License: MIT (https://opensource.org/licenses/MIT)
+Three.js & Examples (GLTFLoader, SkeletonUtils, EffectComposer, RenderPass, ShaderPass, CopyShader, LuminosityHighPassShader, UnrealBloomPass, SSAOShader, SSAOPass, SimplexNoise)
+Copyright © 2010-2021 three.js authors
+License: MIT
+Full license text: https://github.com/mrdoob/three.js/blob/r128/LICENSE
 
 simplex-noise.js
-Copyright © 2022 Jonas Wagner, 2022 Alea F.
-License: MIT (https://opensource.org/licenses/MIT)
+Copyright © 2018 Jonas Wagner; Alea PRNG © 2010 Johannes Baagøe
+License: MIT
+Full license text: https://github.com/jwagner/simplex-noise.js/blob/2.4.0/LICENSE
+
+Inter (typeface)
+Copyright © 2016 The Inter Project Authors (https://github.com/rsms/inter)
+License: SIL Open Font License, Version 1.1
+Full license text: https://github.com/rsms/inter/blob/master/LICENSE.txt
 
 3D Textures
 Materials and textures provided by 3DTextures.me (https://3dtextures.me)
 License: CC0 1.0 Universal (Public Domain Dedication)
-
