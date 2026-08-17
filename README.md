@@ -20,9 +20,6 @@ This repository hosts the compiled, downloadable binaries for **Voxel Arena**.
 <img width="1005" height="692" alt="image" src="https://github.com/user-attachments/assets/081370e3-acc3-4d90-b8c9-8c50f05612bf" />
 
 
-<img width="1004" height="271" alt="image" src="https://github.com/user-attachments/assets/4d21dc02-2768-4408-b950-99d5bafe7271" />
-
-
 <img width="932" height="527" alt="image" src="https://github.com/user-attachments/assets/2b491e56-153e-4aa2-b339-586410e84e98" />
 
 
