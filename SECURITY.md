@@ -9,8 +9,8 @@ The following table lists the versions of Voxel Arena that are currently being s
 | Version | Supported          |
 | ------- | ------------------ |
 | Main branch | :white_check_mark: |
-| 1.x.x   | :white_check_mark: |
-| < 1.0.0 | :x:                |
+| 0.0.14   | :white_check_mark: |
+| < 0.0.14 | :x:                |
 
 *(Note for the maintainer: Update the version numbers in this table to reflect your actual release strategy.)*
 
